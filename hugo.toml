@@ -1,0 +1,22 @@
+baseURL = 'https://millisec.co/'
+languageCode = 'en-us'
+title = 'Millisec, Inc.'
+theme = 'hello-friend-ng'
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  homeSubtitle = "Providing information security and software services to government, finance, automotive and aerospace industries."
+
+ [menu]
+  [[menu.main]]
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "/posts"
