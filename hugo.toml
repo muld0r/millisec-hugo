@@ -16,6 +16,10 @@ theme = 'hello-friend-ng'
     logoText     = "$ whois millisec.co"
 
  [[params.social]]
+  name = "email"
+  url = "contact"
+
+ [[params.social]]
   name = "gpg"
   url = "pgp-key"
 
