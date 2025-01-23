@@ -1,11 +1,10 @@
 ---
-title: "Hello"
-date: 2024-05-13T17:00:28-04:00
+title: "About"
+date: 2024-01-13T17:00:28-04:00
+aliases: ["about-us","about-millisec", "team"]
 draft: true
 toc: false
 images:
-tags:
-  - untagged
 ---
 Welcome to Millisec, where we specialize in comprehensive security assessment and engineering services tailored for government, finance, aviation, and automotive sectors. With a focus on robust security solutions, our expert team ensures your systems are fortified against cyber threats, safeguarding critical infrastructure and sensitive data. Partner with us for proactive defense strategies and building systems robust against attack.
 

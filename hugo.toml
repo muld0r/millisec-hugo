@@ -11,12 +11,30 @@ theme = 'hello-friend-ng'
 
   homeSubtitle = "Providing information security and software services to government, finance, automotive and aerospace industries."
 
+[params.logo]
+    logoMark     = ">"
+    logoText     = "$ whois millisec.co"
+
+ [[params.social]]
+  name = "gpg"
+  url = "pgp-key"
+
+  [params.footer]
+    trademark = "2024 Millisec, Inc."
+
  [menu]
   [[menu.main]]
-    identifier = "home"
-    name       = "Home"
-    url        = "/"
+    identifier = "services"
+    name       = "Services"
+    url        = "/services"
+    weight = 5
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "/posts"
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+    weight = 1
+  [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact"
+    weight = 10
