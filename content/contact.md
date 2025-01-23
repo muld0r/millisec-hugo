@@ -2,7 +2,7 @@
 title: "Contact"
 date: 2024-01-13T17:00:28-04:00
 aliases: ["get-in-touch"]
-draft: true
+draft: false
 toc: false
 images:
 ---

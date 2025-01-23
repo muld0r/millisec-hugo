@@ -2,7 +2,7 @@
 title: "About"
 date: 2024-01-13T17:00:28-04:00
 aliases: ["about-us","about-millisec", "team"]
-draft: true
+draft: false
 toc: false
 images:
 ---
